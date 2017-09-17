@@ -1,0 +1,1 @@
+Stance detection can be formulated in different ways. In the context of this task, we define stance detection to mean automatically determining from text whether the author is in favor of the given target, against the given target, or whether neither inference is likely.
